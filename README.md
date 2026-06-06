@@ -21,6 +21,6 @@ AbsensiApp adalah aplikasi pencatatan kehadiran (absensi) harian berbasis _mobil
 
 1. **Clone repositori ini:**
    ```bash
-   git clone [https://github.com/23okt/AbsensiApp.git](https://github.com/23okt/AbsensiApp.git)
+   git clone [https://github.com/23okt/ReactAbsensiApp.git](https://github.com/23okt/ReactAbsensiApp.git)
    cd AbsensiApp
    ```
